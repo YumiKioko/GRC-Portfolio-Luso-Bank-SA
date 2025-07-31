@@ -1,0 +1,6 @@
+Risk ID,Risk Description,Asset,Threat,Vulnerability,Likelihood,Impact,Risk Rating,Mitigation Plan,Owner,Status
+R001,Phishing attack on employees,Email System,Phishing emails,Lack of user awareness,High,Medium,High,Conduct regular security awareness training,IT Security,Open
+R002,Unauthorized access to customer data,Customer Database,Hacker intrusion,Weak access control,Medium,High,High,Implement MFA and role-based access control,Data Privacy Officer,Open
+R003,Service disruption in mobile app,Mobile Banking App,DDoS attack,Insufficient bandwidth,Medium,Medium,Medium,Use CDN and WAF,DevOps,Mitigated
+R004,Data breach via third-party vendor,Core Banking System,Vendor compromise,Lack of vendor assessment,Low,High,Medium,Audit third-party vendors regularly,Risk Manager,Planned
+R005,SWIFT fraud via credential theft,SWIFT Gateway,Insider threat,Credential reuse,Low,High,Medium,Enforce password policies and session monitoring,Network Team,Open

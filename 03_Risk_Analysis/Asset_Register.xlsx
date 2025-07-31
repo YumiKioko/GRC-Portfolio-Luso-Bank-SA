@@ -1,0 +1,6 @@
+Asset ID,Asset Name,Asset Owner,Asset Type,Confidentiality,Integrity,Availability,Notes
+A001,Core Banking System,IT Department,Software,High,High,High,Handles all transactions
+A002,Customer Database,Data Privacy Officer,Data,High,High,Medium,Stores PII and financial data
+A003,SWIFT Gateway,Network Team,Infrastructure,High,Medium,High,Used for interbank transfers
+A004,Mobile Banking App,DevOps Team,Application,High,Medium,Medium,Public-facing mobile app
+A005,Cloud Backup Repository,IT Security,Storage,Medium,High,High,Backups stored in AWS EU region

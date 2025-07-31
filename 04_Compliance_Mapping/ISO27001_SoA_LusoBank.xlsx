@@ -1,0 +1,7 @@
+Control,Control Title,Applicable (Yes/No),Justification
+A.5.1,Information security policy,Yes,Included in ISMS Policy
+A.5.23,Information security for use of cloud services,Yes,Cloud is in scope
+A.6.1,Organizational roles and responsibilities,Yes,Defined in ISMS roles document
+A.7.4,Physical security monitoring,No,Handed off to data center vendor
+A.8.9,Configuration management,Yes,Critical for system hardening
+A.8.16,Monitoring activities,Yes,Required for real-time threat detection

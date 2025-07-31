@@ -1,0 +1,21 @@
+Risk Treatment Plan – LusoBank S.A.
+
+Risk ID: R001
+Risk: Phishing attack on employees
+Treatment Strategy: Mitigate
+Control Measures:
+ - Annual phishing simulations
+ - Security awareness program
+ - Email filtering with anti-phishing modules
+Responsible Party: IT Security Manager
+Target Date: 2025-12-31
+
+Risk ID: R002
+Risk: Unauthorized access to customer data
+Treatment Strategy: Mitigate
+Control Measures:
+ - Enforce MFA
+ - Apply least privilege access
+ - Conduct quarterly access reviews
+Responsible Party: Data Privacy Officer
+Target Date: 2025-09-15

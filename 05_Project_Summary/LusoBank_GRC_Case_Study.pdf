@@ -1,0 +1,20 @@
+LusoBank GRC Implementation Case Study
+
+Overview:
+This GRC simulation focuses on implementing an ISO/IEC 27001:2022-aligned Information Security Management System (ISMS) for LusoBank S.A., a retail bank in Portugal.
+
+Objective:
+Strengthen governance, manage cyber risks, and demonstrate regulatory compliance (e.g., GDPR, Banco de Portugal, NIS2).
+
+Phases:
+1. Policy Creation: Developed ISMS and security policies aligned to the bank’s objectives.
+2. Asset & Risk Analysis: Identified core systems (banking, customer data, SWIFT) and assessed top risks.
+3. Risk Treatment: Defined mitigation plans for threats like phishing and unauthorized data access.
+4. Compliance Mapping: Mapped GDPR and ISO controls; prepared SoA and DPIA templates.
+5. Dashboarding: Created a visual dashboard to track treatment status and risk heatmaps.
+
+Outcome:
+A clear, documented baseline for managing risks, supporting audits, and building a culture of security.
+
+Prepared by: GRC Analyst (Simulated)
+Date: 2025-07-31

@@ -1,0 +1,6 @@
+GDPR Article,Control/Policy,Implemented,Notes
+Art. 5 - Principles Relating to Processing,ISMS Policy,Yes,Reflected in data classification policy
+Art. 25 - Data Protection by Design,Secure SDLC Policy,Yes,Development lifecycle includes privacy checks
+Art. 32 - Security of Processing,Technical Controls (MFA, WAF),Yes,Core controls implemented
+Art. 33 - Breach Notification,Incident Response Policy,Yes,Internal SLA of 12h
+Art. 35 - DPIA,Data Protection Impact Assessment Template,Planned,Due Q3 2025
