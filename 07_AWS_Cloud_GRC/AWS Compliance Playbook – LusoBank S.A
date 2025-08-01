@@ -1,0 +1,64 @@
+
+## 🛡️ AWS Compliance Playbook – LusoBank S.A.
+
+### 1. **Introduction**
+
+* **Purpose:** Define the objectives and scope of the compliance playbook.
+* **Audience:** Targeted towards compliance officers, security teams, auditors, and IT staff.
+* **Scope:** Covers AWS services and resources utilized by LusoBank S.A.
+
+### 2. **Governance Framework**
+
+* **Organizational Units (OUs):** Structure of AWS accounts and OUs within AWS Organizations.
+* **Account Vending:** Process for creating and managing AWS accounts.
+* **Tagging Strategy:** Standardized tagging for resource identification and cost allocation.([Amazon Web Services][1], [Medium][2])
+
+### 3. **Identity and Access Management (IAM)**
+
+* **User Management:** Procedures for creating and managing IAM users and roles.
+* **Access Controls:** Implementation of least privilege access principles.
+* **Multi-Factor Authentication (MFA):** Enforcement of MFA for all users.([Medium][2])
+
+### 4. **Data Protection and Privacy**
+
+* **Data Classification:** Categorization of data based on sensitivity.
+* **Encryption:** Use of AWS Key Management Service (KMS) for data encryption at rest and in transit.
+* **Data Residency:** Compliance with data localization laws and regulations.([Medium][2])
+
+### 5. **Monitoring and Logging**
+
+* **AWS CloudTrail:** Configuration for logging API calls and user activities.
+* **Amazon CloudWatch:** Setup of metrics and alarms for resource utilization and performance.
+* **Log Retention:** Policies for log storage duration and access controls.([Medium][2])
+
+### 6. **Compliance and Auditing**
+
+* **AWS Artifact:** Utilization for accessing compliance reports and certifications.
+* **Third-Party Audits:** Engagement with external auditors for regular assessments.
+* **Audit Trails:** Maintenance of comprehensive audit logs for compliance verification.([ClickIT][3])
+
+### 7. **Incident Response and Remediation**
+
+* **Incident Management:** Procedures for identifying and responding to security incidents.
+* **Root Cause Analysis:** Processes for investigating and addressing the underlying causes of incidents.
+* **Remediation Plans:** Development and implementation of corrective actions.
+
+### 8. **Training and Awareness**
+
+* **Employee Training:** Regular sessions on AWS security best practices and compliance requirements.
+* **Phishing Simulations:** Conducting simulated phishing attacks to raise awareness.
+* **Knowledge Base:** Provision of resources and documentation for continuous learning.
+
+### 9. **Continuous Improvement**
+
+* **Feedback Mechanisms:** Channels for collecting feedback on compliance processes.
+* **Policy Reviews:** Regular reviews and updates of compliance policies and procedures.
+* **Benchmarking:** Comparison with industry standards and best practices.
+
+---
+
+If you have specific sections or topics you'd like to delve deeper into, such as integrating AWS Config for compliance monitoring or setting up AWS Control Tower for governance, feel free to let me know, and I can provide more detailed guidance.
+
+[1]: https://aws.amazon.com/blogs/industries/defining-an-aws-multi-account-strategy-for-a-digital-bank/?utm_source=chatgpt.com "Defining an AWS multi-account strategy for a digital bank"
+[2]: https://medium.com/%40AlexanderObregon/aws-compliance-and-governance-for-beginners-985bd92f52b9?utm_source=chatgpt.com "AWS Compliance & Governance for Beginners"
+[3]: https://www.clickittech.com/cloud-services/aws-security/?utm_source=chatgpt.com "Top 10 Best AWS Security Practices for Financial Services"
